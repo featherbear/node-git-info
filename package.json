@@ -1,0 +1,20 @@
+{
+  "name": "git-info",
+  "version": "1.0.0",
+  "description": "Wrapper over git-repo-info and is-git-dirty",
+  "main": "wrapper.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/featherbear/node-git-info.git"
+  },
+  "author": "featherbear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/featherbear/node-git-info/issues"
+  },
+  "homepage": "https://github.com/featherbear/node-git-info#readme",
+  "dependencies": {
+    "git-repo-info": "^2.1.1",
+    "is-git-dirty": "^2.0.1"
+  }
+}
